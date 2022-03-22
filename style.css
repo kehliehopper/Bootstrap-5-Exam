@@ -1,7 +1,8 @@
 html,
-body {
+.body {
     height: 100%;
     font-size: 1rem;
+    font-family: 'Ramaraja', serif;
 }
 
 
