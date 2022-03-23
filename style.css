@@ -4,14 +4,21 @@ html,
     font-size: 1rem;
     font-family: 'Ramaraja', serif;
 }
-
 .gradient {
     background: rgb(128,125,168);
     background: linear-gradient(90deg, rgba(128,125,168,1) 0%, rgba(199,92,180,1) 46%, rgba(171,235,161,1) 93%);
 }
-
 .page-header {
     margin-top: 4rem;
     font-size: 1.25rem;
     color:antiquewhite;
+}
+.feature{
+    color:antiquewhite;
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: square;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
 }
