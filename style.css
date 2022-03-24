@@ -25,3 +25,15 @@ html,
 .gallery{
     background-color: burlywood;
 }
+.gallery img{
+    border-radius: 5%;
+    max-width: 100%;
+    height: auto;
+}
+.services {
+    color:blanchedalmond;
+}
+.services img{
+    max-width: 100%;
+    height: auto;
+}
